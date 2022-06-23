@@ -1,7 +1,7 @@
-# Jogo da Memória em Flutter
+# Memory Game in Flutter
 
-Este projeto exemplifica um Memory Game em Flutter com o tema da série Round 6.
+This project exemplifies a Memory Game in Flutter with the theme of the Round 6 series.
 
-No projeto são mostrados os conceitos de Interface (UI) a partir de um template criado no Figma, de Animação de Flip Card para rotacionar uma carta quando o usuário toca, de gerenciamento de estado usando Provider e MobX, e também de banco de dados para manter os recordes de jogadas em cada nível do jogo.
+The project shows the concepts of Interface (UI) from a template created in Figma, Flip Card Animation to rotate a card when the user touches it, state management using Provider and MobX, and also a database for keep the records of moves in each level of the game.
 
 ![Screens](screens.png "Screens")
